@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//prabhakar-18.github.io/NEWS-TAIL/static/css/main.abd64e84.css",
+    "main.js": "/http//prabhakar-18.github.io/NEWS-TAIL/static/js/main.594248aa.js",
+    "static/js/787.4c026eef.chunk.js": "/http//prabhakar-18.github.io/NEWS-TAIL/static/js/787.4c026eef.chunk.js",
+    "index.html": "/http//prabhakar-18.github.io/NEWS-TAIL/index.html",
+    "main.abd64e84.css.map": "/http//prabhakar-18.github.io/NEWS-TAIL/static/css/main.abd64e84.css.map",
+    "main.594248aa.js.map": "/http//prabhakar-18.github.io/NEWS-TAIL/static/js/main.594248aa.js.map",
+    "787.4c026eef.chunk.js.map": "/http//prabhakar-18.github.io/NEWS-TAIL/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.594248aa.js"
+  ]
+}
